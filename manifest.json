@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "version": "0.0.1",
+  "files": [
+    {
+      "path": "public/updates/status.txt",
+      "sha256": "5c37eefc05b4ceeedbd34d111e51318c16ec999582e989879345a7460ae20b5a",
+      "url": "https://raw.githubusercontent.com/samuka95951212-ops/Baiarevolution-Updates/main/public/updates/status.txt"
+    }
+  ]
+}
